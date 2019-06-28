@@ -1,0 +1,2 @@
+<!-- Replace this with an image, like your photo. Ensure you include some alt-text. -->
+![Image of me as a cute baby](https://scontent-lga3-1.xx.fbcdn.net/v/t1.0-9/48385887_10156367794387732_4101672279958618112_o.jpg?_nc_cat=109&_nc_oc=AQlfwNaYDq9OeeLhfZHFJyFPEoodi6jcy_b7VzNeJlB2paBhQTzo8i97QdjUgf3j7-I&_nc_ht=scontent-lga3-1.xx&oh=c06841d7f84299b78f7d46c42a046b0a&oe=5DBBF958)
